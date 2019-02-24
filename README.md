@@ -1,7 +1,6 @@
 # eve-manager-client
 Client for eve-manager in JS (react - later angular)
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You need to fill the src/cache directory with your own data - you create your own data in the eve-manager-server app.
 
 ## Available Scripts
 
