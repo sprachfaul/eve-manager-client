@@ -1,3 +1,10 @@
+# private cached files
+src/cache/*.CombinedCharacter.json
+src/cache/used*.json
+
+# ide related stuff
+.project
+
 # Logs
 logs
 *.log

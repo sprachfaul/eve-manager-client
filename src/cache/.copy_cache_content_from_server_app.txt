@@ -1,0 +1,5 @@
+the names should be like
+
+<character>.CombinedCharacter.json
+usedtypeids.json 
+usedtypes.json
